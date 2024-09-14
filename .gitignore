@@ -1,0 +1,8 @@
+#ignore a single specific file
+demoFile.txt
+
+#ignore a all files with 'build' folder
+build/
+
+#ignore a all files with extension '.log'
+*.log
